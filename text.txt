@@ -1,0 +1,2 @@
+Consider the scenario of performing three activities
+Because they are called memoryless
